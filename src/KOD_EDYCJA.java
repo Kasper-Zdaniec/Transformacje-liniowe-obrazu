@@ -14,7 +14,7 @@ public class KOD_EDYCJA {
 
   try {
 
-   File input = new File("Obrazek.jpg");
+   File input = new File("Przed_kompilacją.jpg");
    image = ImageIO.read(input);
    width = image.getWidth();
    height = image.getHeight();
@@ -83,7 +83,7 @@ public class KOD_EDYCJA {
     }
    }
 
-   File ouptut = new File("gotowe.jpg");
+   File ouptut = new File("Po_kompilacji.jpg");
    ImageIO.write(image, "jpg", ouptut);
 
   } catch (IOException e) {}
