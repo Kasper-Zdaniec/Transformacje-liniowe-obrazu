@@ -1,5 +1,4 @@
 # Transformacje liniowe obrazu
-
 Zdjecie przed kompilacją
 
 ![Przed_kompilacją](https://user-images.githubusercontent.com/79860696/122641857-1956e200-d108-11eb-999b-83fa646fe1c9.jpg)
