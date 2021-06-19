@@ -1,3 +1,5 @@
+#
+
 Zdjęcie przed kompilacją
 
 ![Przed_kompilacją](https://user-images.githubusercontent.com/79860696/122640057-a0eb2380-d0fd-11eb-806d-d539667d57c1.jpg)
