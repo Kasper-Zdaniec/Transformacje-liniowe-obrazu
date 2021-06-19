@@ -1,12 +1,10 @@
-# LAB-5-Obrobka
-
-Zdjecie początkowo
-
-![Normalne](https://user-images.githubusercontent.com/80647495/122408327-93f5f500-cf82-11eb-8e37-8d662d0485a6.png)
+Obrazek przed
 
 
 
-Zdjecie po wstawieniu kodu
+
+
+Obrazek po kompilacji
 
 
 
