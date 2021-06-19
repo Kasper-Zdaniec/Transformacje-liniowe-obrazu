@@ -1,13 +1,9 @@
-# LAB-5-Obrobka
+Zdjęcie przed kompilacją
+![Przed_kompilacją](https://user-images.githubusercontent.com/79860696/122640057-a0eb2380-d0fd-11eb-806d-d539667d57c1.jpg)
 
-Zdjecie początkowo
-
-![Normalne](https://user-images.githubusercontent.com/80647495/122408327-93f5f500-cf82-11eb-8e37-8d662d0485a6.png)
-
-
-
-Zdjecie po wstawieniu kodu
+Zdjecie po kompilacji
+![Po_kompilacji](https://user-images.githubusercontent.com/79860696/122640061-a3e61400-d0fd-11eb-9484-b9c9a2a5e99e.jpg)
 
 
 
-![Przerobione](https://user-images.githubusercontent.com/80647495/122408365-9d7f5d00-cf82-11eb-930a-34eafc534d62.png)
+
